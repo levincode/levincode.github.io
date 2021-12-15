@@ -1,4 +1,1 @@
----
-test: test
----
-# My github page-{{page.test}}
+# My GitHub page
